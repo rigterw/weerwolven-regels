@@ -9,6 +9,8 @@ nav:
   - Spelregels: 
       - regels/spelverloop.md
       - regels/rollen.md
+      - regels/dodenrijk.md
+      - regels/gekkigheden.md
       - regels/spelleider.md
   - Changelog: changelog.md
 
