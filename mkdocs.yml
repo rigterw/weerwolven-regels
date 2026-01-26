@@ -1,0 +1,7 @@
+site_name: Weerwolven regels
+theme: windmill
+nav:
+  - Home: index.md
+  - Spelregels: 
+      - spelverloop.md
+      - rollen.md
