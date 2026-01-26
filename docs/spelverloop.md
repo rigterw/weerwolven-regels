@@ -1,3 +1,0 @@
-# regels
-
-## dit zijn regels

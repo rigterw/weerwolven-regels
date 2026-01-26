@@ -1,7 +1,16 @@
 site_name: Weerwolven regels
-theme: windmill
+theme: 
+  name: windmill
+  toc:
+    depth: 2
+
 nav:
   - Home: index.md
   - Spelregels: 
-      - spelverloop.md
-      - rollen.md
+      - regels/spelverloop.md
+      - regels/rollen.md
+      - regels/spelleider.md
+  - Changelog: changelog.md
+
+markdown_extensions:
+  - pymdownx.extra
