@@ -20,8 +20,9 @@ nav:
       - Zwarte dood & andere gekkigheden: regels/gekkigheden.md
       - regels/spelleider.md
   - Extra:
-    - Lijst van contribueerders: contributors.md
-    - changelog.md
+    - Lijst van contribueerders: extra/contributors.md
+    - extra/changelog.md
+    - extra/rollenarchief.md
 
 markdown_extensions:
   - pymdownx.extra

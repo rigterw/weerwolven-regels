@@ -5,6 +5,8 @@
 - lichte aanpassingen in volgorde van het hoofdstuk spelverloop.
 - Lynch stemmen worden nu publiekelijk gedaan ipv prive naar spelleider
 - Gelijkstemmingen nu vermeld onder lynch
+- Luks rolverdelerPro vermeld in de lijst van contribueerders
+- Gijs vermeld in de lijst van contribueerders
 
 ## Versie 26
 - Medium rework, krijgt nu extra erfenissen
@@ -66,14 +68,22 @@
 ## Versie 18
 - herbergier toegevoegd
 
+## Versie 17
+- Welke bondjes mogen toegevoegd
+
 ## Versie 16
 - Besmettelijke wolf aangepast
+
+## Versie 15
+- Fluitspeler en grim samengevoegd tot pijpende reaper
 
 ## Versie 14
 - weerwolf toegevoegd
 - Weerhamster toegevoegd
 - Aanpassingen aan de slet
 
+## Versie 13
+- wolf in schaapskleren verwijderd
 ## Versie 10
 - Lynch aangepast
 - Aangepast hoe mensen weten wie ze zijn
