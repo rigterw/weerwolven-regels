@@ -1,0 +1,36 @@
+h1,
+h2,
+h3,
+
+.wm-article-link {
+    color: maroon !important;
+}
+
+.wm-top-container {
+    background-color: maroon;
+}
+
+.wm-toc-li.wm-current {
+    background-color: whitesmoke;
+}
+
+body {
+    background-color: rgb(243, 244, 230);
+}
+
+nav.wm-toc-pane {
+    background-color: beige;
+}
+
+a {
+    color: rgb(220, 168, 26) !important;
+    text-decoration: underline;
+}
+
+.wm-article-nav-buttons a {
+    color: rgb(173, 2, 2) !important;
+}
+
+.wm-top-title {
+    color: white !important;
+}

@@ -19,6 +19,7 @@ nav:
       - regels/bondjes.md
       - Zwarte dood & andere gekkigheden: regels/gekkigheden.md
       - regels/spelleider.md
+  - to-brainstorm.md
   - Extra:
     - Lijst van contribueerders: extra/contributors.md
     - extra/changelog.md
@@ -26,3 +27,9 @@ nav:
 
 markdown_extensions:
   - pymdownx.extra
+
+extra_css:
+  - assets/css/custom.css
+
+extra:
+  version: "Versie: 27"
