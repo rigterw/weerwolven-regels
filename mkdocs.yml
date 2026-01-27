@@ -2,13 +2,19 @@ site_name: Weerwolven regels
 theme: 
   name: windmill
   toc:
-    depth: 2
+    depth: 3
 
 nav:
   - Home: index.md
   - Spelregels: 
       - regels/spelverloop.md
-      - regels/rollen.md
+      - Rollen:
+          - regels/rollen.md
+          - regels/rollen/goed.md
+          - regels/rollen/neutraal.md
+          - regels/rollen/slecht.md
+          - regels/rollen/speciaal.md
+
       - regels/dodenrijk.md
       - regels/gekkigheden.md
       - regels/spelleider.md
