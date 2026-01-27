@@ -26,37 +26,37 @@ alsnog het visioen.
 ### Lynch
 Tijdens dit dagdeel kiest iedereen iemand uit om te lynchen. De eerste persoon maakt een lijst aan en zet zijn stem erin. Stemmen worden bekend gemaakt om 22:00. Niet stemmen is een stem op jezelf.
 
-Bij een gelijk stemming word eerst de zondebok opgehangen. Is die er niet? Dan heeft de burgemeester de beslissende stem. Wanneer de burgemeester niet op iemand heeft gestemd die de meeste stemmen heeft vind er een herstemming plaats tussen degene die de hoogste stemmen hadden. 
+Bij een gelijk stemming word eerst de [zondebok](./rollen/goed.md#zondebok) opgehangen. Is die er niet? Dan heeft de burgemeester de beslissende stem. Wanneer de burgemeester niet op iemand heeft gestemd die de meeste stemmen heeft vind er een herstemming plaats tussen degene die de hoogste stemmen hadden. 
 
-acties met ‘Tijd van de actie’ = dag worden uitgevoerd na de lynch. Als een priester bijvoorbeeld van plan was om Larissa nat te spetteren maar zij werd ook gelynched, gaat de actie niet door en houd de priester het water. Uitzondering hierop is de jager, deze kan wel een val zetten bij een dood persoon. 
+acties met ‘Tijd van de actie’ = dag worden uitgevoerd na de lynch. Als een [priester](rollen/goed.md#priester) bijvoorbeeld van plan was om Larissa nat te spetteren maar zij werd ook gelynched, gaat de actie niet door en houd de priester het water. Uitzondering hierop is de [jager](rollen/goed.md#jager), deze kan wel een val zetten bij een dood persoon. 
 
 ## Wat gebeurd er alleen de eerste dag?
 De eerste dag heeft 2 extra gebeurtenissen:
 ### Tweelingen
-Wanneer een burgerrol, welp of de Grafrover sterft in Nacht 1, zal deze speler een nieuwe naam en rol
+Wanneer een burgerrol, [welp](rollen/slecht.md#welp) of de [Grafrover](rollen/neutraal.md#grafrover) sterft in Nacht 1, zal deze speler een nieuwe naam en rol
 krijgen en meespelen vanaf Dag 1. Naam mag zelf besloten worden maar moet afgeleid zijn van je eigen naam en de rol is volledig willekeurig. De
 erfenis van de speler gaat naar zichzelf onder de nieuwe naam.
 
 **Bijvoorbeeld:**
->Luk is het Priester en wordt Nacht 1 gelunched. Hij kiest er vervolgens voor om onder de nieuwe
-naam kuL te spelen en krijgt als nieuwe rol De Kleine Wilde. De erfenis van Luk moet vervolgens naar
+>Luk is het [Priester](rollen/goed.md#priester) en wordt Nacht 1 gelunched. Hij kiest er vervolgens voor om onder de nieuwe
+naam kuL te spelen en krijgt als nieuwe rol [De Kleine Wilde](rollen/slecht.md#kleine-wilde). De erfenis van Luk moet vervolgens naar
 kuL gaan. Dit betekent dat kuL aan de Rawrkerdam groep wordt toegevoegd en direct een voorbeeld
 moet kiezen (kracht van De Kleine Wilde).
 
 ### Burgemeester
 De burgemeester heeft de beslissende stem bij een gelijkstemming van de lynch, tenzij er een levende
-Zondebok is. Een echte must om te hebben dus! De burgemeester wordt gekozen
+[Zondebok](rollen/goed.md#zondebok) is. Een echte must om te hebben dus! De burgemeester wordt gekozen
 na de eerste nacht, op de eerste dag. Iedereen geeft diens burgemeester stem door aan de
 spelleider, natuurlijk hebben degene die een powerpoint presentatie maken een voordeel bij het
 overhalen van mensen ;) De uitslag wordt 1 uur voor de lynch bekend gemaakt. De positie gaat
 vervolgens naar een opvolger gekozen door de vorige burgemeester als deze vroegtijdig sterft. Dit
 kan van tevoren aan de spelleider bekend gemaakt worden, of in het testament worden gezet. 
 
-Let op dat de Kroonprins eenmalig het burgemeesterschap af kan pakken!
+Let op dat de [Kroonprins](rollen/goed.md#kroonprins) eenmalig het burgemeesterschap af kan pakken!
 
 ## Hoe win je?
 De ‘goeden’ winnen door de ‘slechten’ te elimineren en neutrale rollen op te ruimen zoals de
-Pijpende Reaper. De ‘slechten’ winnen via dezelfde methode, alleen dan moeten de ‘goeden’ dood
+[Pijpende Reaper](rollen/neutraal.md#reaper). De ‘slechten’ winnen via dezelfde methode, alleen dan moeten de ‘goeden’ dood
 en de neutralen moeten ook worden opgeruimd. De neutralen moeten hun unieke doel voltrekken
 zoals in hun rolbeschrijving staat.
 
@@ -77,7 +77,7 @@ volgend kopje.
 
 ### Erfenis
 Je mag bij het schrijven van je testament vermelden wie je erfenis ontvangt. In je erfenis mag je wel
-alles neerzetten. Als je de ziener was in het rijk der levenden, mag je hier al je bevindingen plaatsen
+alles neerzetten. Als je de [ziener](rollen/goed.md#ziener) was in het rijk der levenden, mag je hier al je bevindingen plaatsen
 en sturen naar deze ene persoon. Ik vermeld wie de erfenis ontvangt, maar deze persoon mag alleen
 vertellen wat er in de erfenis staat i.p.v. de erfenis direct door te sturen, waardoor deze persoon op
 het woord gelooft moet worden.

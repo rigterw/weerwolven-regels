@@ -14,10 +14,10 @@ vindt, dan is dat voor dat potje zo. Tussen de potjes door mag je problemen met 
 in de brainstomers-app, en wordt besproken of een aanpassing ingevoerd wordt of niet.
 
 ## Striktheid van de regels
-Deze site is de basis van het spel. Alle vragen worden hier beantwoord, maar niet altijd wordt
-dit bestand gehandhaafd door de spelleiders. Spelleiders melden afwijkingen van het regelbestand
+Deze site is de basis van het spel. (Bijna) alle vragen worden hier beantwoord, maar niet altijd wordt
+deze site gehandhaafd door de spelleiders. Spelleiders melden afwijkingen van het regelbestand
 alvorens een potje begint, zijnde een aanpassing die zij willen testen of een ticket ingezet door een
-deelnemer. Er kan ook wat inconsistentie zijn met dit bestand en de regels, omdat de regels vaak wat
+deelnemer. Er kan ook wat inconsistentie zijn met deze site en de regels, omdat de regels vaak wat
 sneller veranderen dan geupdated kan worden.
 
 ## Ik ben nieuw, help!
@@ -61,8 +61,8 @@ doen. Je kan een goeie en brave student zijn en alle [rollen](regels/rollen.md) 
 potje begint en je een rol hebt gekregen. Mijn advies hierbij is om eerst te lezen wat je eigen rol doet
 en dan hangt het ervan af hoe moeilijk je het jezelf wilt maken. Wil je een uitdaging? Lees een rol pas
 zodra je ‘m tegenkomt. Anders raad ik aan om in ieder geval de slechte en neutrale rollen te lezen.
-Ben je wolf? Vraag aan je medewolvengenoten wat het handigst is. Mocht je Pijpende Reaper of
-Necrotariër zijn, gewoon genezer claimen :p
+Ben je wolf? Vraag aan je medewolvengenoten wat het handigst is. Mocht je [Pijpende Reaper](regels/rollen/neutraal.md#reaper) of
+[Necrotariër](regels/rollen/neutraal.md#necrotarier) zijn, gewoon [genezer](regels/rollen/goed.md#genezer) claimen :p
 
 Mocht je toch nog vragen hebben? Gewoon aan de spelleider vragen of als je te onzeker bent, kan je
 voorafgaand aan het potje vragen of iemand met je mee wilt spelen. Deze persoon is dan je Coach en
