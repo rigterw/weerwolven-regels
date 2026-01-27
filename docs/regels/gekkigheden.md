@@ -110,7 +110,7 @@ wil. Het kan ook dat de veilingmeester dit afwijst.
 Als je meer punten uitgeeft dan je hebt, dan krijg je niets en moet je 5 punten boete betalen.
 
 
-## Raadsels & Jouke’s gekkigheden
+## Raadsels & Jouke’s gekkigheden {#madam-marinette}
 *Madam Marinette is al maanden niet meer langs geweest. Je kan dit hoofdstuk voor nu negeren.*
 
 Madame Marinette is een beroemde waarheidszegster. Nog nooit heeft ze ernaast gezeten. Ze is bij

@@ -57,11 +57,11 @@ Hetzelfde geld voor de andere rollen.
     - [Onschuldig Meisje](./rollen/goed.md#onschuldig-meisje)
     - [Slet](./rollen/goed.md#slet) (niet immuun tegen Cupido/Pijpende Reaper/Welp)
     - [Vos](./rollen/goed.md#vos)
-    - [Ziener](./rollen/goed.md#ziener) (ook [Mystieke Wolf](./rollen/slecht#mystieke-wolf))
+    - [Ziener](./rollen/goed.md#ziener) (ook [Mystieke Wolf](./rollen/slecht.md#mystieke-weerwolf))
 
 <br>
 
-5. Dodende acties ([Witte Weerwolf](./rollen/slecht#witte-wolf) 1)
+5. Dodende acties ([Witte Weerwolf](./rollen/neutraal.md#witte-weerwolf) 1)
     - De Witte wolf mag kiezen voor de medewolven te lunchen.
 
 <br>
@@ -76,7 +76,7 @@ Hetzelfde geld voor de andere rollen.
 <br>
 
 7. Dodende acties (2)
-    - [Lijkenlunch](./rollen/neutraal.md#lijk)
+    - [Lijkenlunch](./rollen/speciaal.md#lijk)
     - Weerwolven lunch (gaat niet door bij besmetting, natuurlijk)
 
 
@@ -129,4 +129,4 @@ De mystieke en dorpsgek krijgen in hun info hints, die hints slaan op de volgend
 - **Leider**: Dorpsoudste, Grote Boze Weerwolf, Kasteelheer, Kroonprins, Necrotariër, Raadsheer
 - **Leven of Dood**: Besmettelijke Weerwolf, Genezer, Lijk, Pijpende Reaper, De Ridder met het Roestige Zwaard, Yin Yang Simp
 - **Verandering**: Grafrover, Toneelspeler, Het Toegewijd Dienstmeisje, Weerhamster, Welp
-- **Visie**: Herbergier, Illusiewolf, Medium, Onschuldig Meisje, Slet, Ziener, Mystieke Weerwol
+- **Visie**: Herbergier, Illusiewolf, Medium, Onschuldig Meisje, Slet, Ziener, Mystieke Weerwolf

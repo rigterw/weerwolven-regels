@@ -18,4 +18,4 @@ krachten, of in het geval dat Luk ze geeft kan je ook koekjestickets winnen (dez
 regelbestand en hebben ook geen invloed op potjes). Ook mag iedereen een raadsel openbaren, als
 je beloningen wilt geven, overleg dat dan wel met de huidige spelleider.
 
-Voor meer info, zie [Gekkigheden](../gekkigheden.md#raadsels--joukes-gekkigheden)
+Voor meer info, zie [Gekkigheden](../gekkigheden.md#madam-marinette)

@@ -19,7 +19,9 @@ nav:
       - regels/bondjes.md
       - Zwarte dood & andere gekkigheden: regels/gekkigheden.md
       - regels/spelleider.md
-  - Changelog: changelog.md
+  - Extra:
+    - Lijst van contribueerders: contributors.md
+    - changelog.md
 
 markdown_extensions:
   - pymdownx.extra

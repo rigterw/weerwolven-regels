@@ -371,7 +371,7 @@ Wie ziet ze niet:
 
 - [Illusiewolf](./slecht.md#illusiewolf)
 
-- [Mystieke Weerwolf](./slecht.md#mystieke-wolf)
+- [Mystieke Weerwolf](./slecht.md#mystieke-weerwolf)
 
 - [Toegewijd Dienstmeisje](#dienstmeisje)
 
@@ -477,7 +477,7 @@ nieuw duel mag de volgende dag worden ingezet.
 
 - [Medium](#medium)
 
-- [Mystieke wolf](./slecht.md#mystieke-wolf)
+- [Mystieke wolf](./slecht.md#mystieke-weerwolf)
 
 - [Necrotariër](neutraal.md#necrotarier)
 
@@ -520,7 +520,7 @@ nieuw duel mag de volgende dag worden ingezet.
 
 - [Weerhamster](#weerhamster)
 
-- [Witte Weerwolf](./slecht.md#witte-weerwolf)
+- [Witte Weerwolf](./neutraal.md#witte-weerwolf)
 
 - [Yin Yang Simp](./neutraal.md#simp)
 
@@ -572,7 +572,7 @@ Slet meer aantreft .
 
 Tijd van de actie: **Nacht**. Frequentie: **Iedere nacht, niet bij dezelfde 2x achter elkaar**
 
-## Stotterende raadsheer
+## Stotterende raadsheer {#raadsheer}
 De Stotterende Raadsheer kan eenmalig een tweede lynch (ophangen) starten. De Raadsheer kan dit
 doen als directe reactie op de net bekend gemaakte lynch, wanneer dit gebeurt heeft iedereen 1.5
 uur om nogmaals te stemmen. De Raadsheer kan dit ook vóór de lynch doen als die er sowieso 2 wil.
@@ -639,7 +639,7 @@ Tijd van de actie: **Nacht**. Frequentie: **Iedere Nacht (totdat er een “Nee�
 ## Weerhamster
 De Weerhamster kan niet dood door de wolvenlunch, het is een kleine hamster die zich effectief
 verstopt. Echter kan diens fragiele lichaam niet tegen de magie van de [Ziener](#ziener), wanneer de Ziener de
-Weerhamster bekijkt dan gaat de weerhamster dood, de [Mystieke Weerwolf](./slecht.md#mystieke-wolf) heeft geen speciaal
+Weerhamster bekijkt dan gaat de weerhamster dood, de [Mystieke Weerwolf](./slecht.md#mystieke-weerwolf) heeft geen speciaal
 effect op de Weerhamster. De Weerhamster heeft verder geen actie, behalve schattig zijn.
 
 De weerhamster word eigenlijk alleen uitgedeeld aan mensen die mee willen doen voor spek en bonen.

@@ -1,6 +1,6 @@
 # De Wolven
 Dit is iedereen die bij de wolven hoort, maar niet iedereen is een wolf. De [Besmettelijke Weerwolf](#besmettelijke-weerwolf),
-[Grootmoeder](#grootmoeder), [Grote Boze wolf](#grote-boze-wolf), [Illusiewolf](#illusiewolf), [Mystieke wolf](#mystieke-wolf), [Weerwolf](#weerwolf) en de [Welp](#welp) zodra die
+[Grootmoeder](#grootmoeder), [Grote Boze wolf](#grote-boze-wolf), [Illusiewolf](#illusiewolf), [Mystieke wolf](#mystieke-weerwolf), [Weerwolf](#weerwolf) en de [Welp](#welp) zodra die
 goed heeft gegokt vallen onder de wolven, met uit zondering van de [Grootmoeder](#grootmoeder) zijn dit ook de
 lunchende wolven (wolven die mee gaan om tijdens de lunch iemand te doden). De [Apostaat](#apostaat), [Kleine Wilde](#kleine-wilde) en de [Welp](#welp) tot het moment dat die gokt vallen niet
 onder de wolven.
@@ -154,7 +154,7 @@ doorgegeven.
 
 Tijd van de actie: **Nacht**. Frequentie: **Eenmaal**
 
-## De kleine wilde
+## Kleine wilde
 De Kleine Wilde zit in de Rawrkerdamapp. De Kleine Wilde kiest een voorbeeld uit (enkelvoud!),
 wanneer dit voorbeeld doodgaat door een kracht die niet van de wolven in de Rawrkerdamapp is,
 dan mag de Kleine Wilde kiezen tussen de rollen weten van twee spelers of om één speler te doden.
