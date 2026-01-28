@@ -39,7 +39,7 @@ jobs:
         ssh-keyscan -H ${{ secrets.REMOTE }} >> ~/.ssh/known_hosts
 
     - name: clear remote directory
-      run: ssh -i ~/.ssh/id_ed25519 triviabingo@${{ secrets.REMOTE }} 'rm -rf /var/www/wakkerdam_regels/*'
+      run: ssh -i ~/.ssh/id_ed25519 wakkerdam_regels@${{ secrets.REMOTE }} 'rm -rf /var/www/wakkerdam_regels/*'
 
     - name: Deploy to Server
-      run: scp -r -i ~/.ssh/id_ed25519 site/* triviabingo@${{ secrets.REMOTE }}:/var/www/wakkerdam_regels
+      run: scp -r -i ~/.ssh/id_ed25519 site/* wakkerdam_regels@${{ secrets.REMOTE }}:/var/www/wakkerdam_regels
