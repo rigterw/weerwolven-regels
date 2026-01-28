@@ -1,0 +1,45 @@
+name: Deploy application
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    environment: deployment
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.13"
+
+    - name: Install dependencies
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Build MkDocs site
+      run: |
+        source venv/bin/activate
+        mkdocs build --strict
+
+    - name: prepare SSH
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_KEY }}
+      run: |
+        mkdir -p ~/.ssh
+        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
+        chmod 600 ~/.ssh/id_ed25519
+        ssh-keyscan -H ${{ secrets.REMOTE }} >> ~/.ssh/known_hosts
+
+    - name: clear remote directory
+      run: ssh -i ~/.ssh/id_ed25519 triviabingo@${{ secrets.REMOTE }} 'rm -rf /var/www/wakkerdam_regels/*'
+
+    - name: Deploy to Server
+      run: scp -r -i ~/.ssh/id_ed25519 site/* triviabingo@${{ secrets.REMOTE }}:/var/www/wakkerdam_regels
