@@ -322,7 +322,7 @@ die normaal sowieso gegeven wordt en hoeft dus niet identiek te zijn.
 
 Tijd van de actie: **Meteen** Frequentie: **(Aantal spelers - 1) / 5**
 
-## Onschuldige meisje {#onschuldig-meisje}
+## Onschuldige Meisje {#onschuldig-meisje}
 Het Onschuldige Meisje kan iedere nacht het huis van 1 iemand bekijken. Ze ziet maximaal 1 van de
 personen die langskomen, en of de bewoner weggaat. De spelleider vermeld niet welke rol deze
 personen hebben. Wanneer iemand geluncht wordt en er dus een grote groep langskomt, kan je de
