@@ -1,9 +1,6 @@
 # De Wolven
 Dit is iedereen die bij de wolven hoort, maar niet iedereen is een wolf. De [Besmettelijke Weerwolf](#besmettelijke-weerwolf),
-[Grootmoeder](#grootmoeder), [Grote Boze wolf](#grote-boze-wolf), [Illusiewolf](#illusiewolf), [Mystieke wolf](#mystieke-weerwolf), [Weerwolf](#weerwolf) en de [Welp](#welp) zodra die
-goed heeft gegokt vallen onder de wolven, met uit zondering van de [Grootmoeder](#grootmoeder) zijn dit ook de
-lunchende wolven (wolven die mee gaan om tijdens de lunch iemand te doden). De [Apostaat](#apostaat), [Kleine Wilde](#kleine-wilde) en de [Welp](#welp) tot het moment dat die gokt vallen niet
-onder de wolven.
+[Grootmoeder](#grootmoeder), [Grote Boze wolf](#grote-boze-wolf), [Illusiewolf](#illusiewolf), [Mystieke wolf](#mystieke-weerwolf) en de [Weerwolf](#weerwolf) vallen onder de wolven, met uit zondering van de [Grootmoeder](#grootmoeder) zijn dit ook de lunchende wolven (wolven die mee gaan om tijdens de lunch iemand te doden). De [Apostaat](#apostaat), [Kleine Wilde](#kleine-wilde) en de [Welp](#welp) vallen niet onder de wolven.
 
 Spreek iedere nacht met de andere wolven een gezamenlijke lunch af. Je kracht met elkaar delen
 mag maar hoeft niet. Buiten de algemene lunch horen de krachten privé naar de spelleider
@@ -11,7 +8,7 @@ doorgegeven te worden, afhankelijk van de spelleider wordt dit streng of losjes 
 Hieronder staan de krachten die je kan krijgen.
 
 ## Apostaat
->De Apostaat was vroeger beste vrienden met de ketter. Toen de ketter de kerk verlaatte vanwege de hypocrisie, wilde de apostaat hem volgen voor de chaos die het kon creëren.
+>De Apostaat was vroeger beste vrienden met de Ketter. Toen de ketter de kerk verlaatte vanwege de hypocrisie, wilde de apostaat hem volgen voor de chaos die het kon creëren.
 
 De Apostaat krijgt in het begin van het spel een of meer pentagrammen toegewezen, waar de details
 van kunnen wisselen aan de hand van een potje. Deze rol is er om balans te brengen in grote, gekke
