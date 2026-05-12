@@ -18,6 +18,8 @@ Heeft geen krachten. Je hebt een stem bij de lynch, en dat is alles.
 Tijd van de actie: **Geen actie** Frequentie: **Niet genoeg om de wolvenbuikjes te vullen gna gna gna**
 
 ### Cupido
+*Alleen in het spel bij meer dan 14 spelers*
+
 Na vele jaren van oudedaagsheid is de cupido een beetje gemoderniseerd. De cupido maakt om de
 nacht, beginnend bij nacht 1 een One-Night-Stand. Een One-Night-Stand bestaat uit 2 spelers die
 tijdelijk aan elkaar gekoppeld worden. Sterft een van de twee, dan sterft de ander ook. Ze kunnen als
@@ -79,6 +81,8 @@ je sowieso bij een correcte gok, ook al heb je nog 2 levens.
 Tijd van de actie: **nvt**. Frequentie: **nvt**
 
 ## Engel
+*Alleen in het spel bij meer dan 14 spelers*
+
 Wanneer deze persoon op dag 1 wordt gelyncht, wint die direct het spel. Als dit niet gebeurt, dan
 gaat de Engel om de nacht wisselen met andere burger rollen, beginnend bij nacht 3. De spelleider
 kiest een willekeurig iemand uit met een burgerrol en de Engel krijgt de rol van
@@ -422,7 +426,7 @@ Tijd van de actie: **Nacht**. Frequentie: **Iedere nacht**
 
 ## Priester
 De Priester mag overdag een flesje wijwater over iemand heen gooien. Wanneer deze persoon een [Heks](#heks) of
-een [wolf](./slecht.md) (Besmettelijke, Grootmoeder, Grote Boze, Gewone weerwolf, Illusie, Mystieke of welp) is,
+een [wolf](./slecht.md) is,
 dan verbrand deze persoon. Anderzijds is deze persoon nat en eventueel boos, behalve als het warm
 weer is. Bij het gooien van je wijwater mag je kiezen of je je identiteit onthult of niet.
 
@@ -443,7 +447,7 @@ gekregen, zet het er vooral in als je dat wil
 
 Tijd van de actie: **Dag, voor 21.00**. Frequentie: **Elke dag**
 
-## De ridder met het roestige zwaard {#ridder}
+## De Ridder met het Roestige Zwaard {#ridder}
 Wanneer de Ridder wordt geluncht (opgegeten), dan zal er bij de volgende lunch een willekeurige
 lunchende wolf uit de Rawrkerdamapp sterven. De spelleider bepaald of bij besmetting de
 [Besmettelijke Weerwolf](./slecht.md#besmettelijke-weerwolf) de volgende nacht dood gaat. Als de Ridder door de grote boze lunch
@@ -489,7 +493,7 @@ nieuw duel mag de volgende dag worden ingezet.
 
 - [Zondebok](#zondebok)
 
-**Zijn duel faalt bij (kan de volgende dag nog een duel starten):**
+**Zijn duel faalt bij (Er wordt niks in de regelapp vermeld en de kracht wordt niet gebruikt (Ridder krijgt wel privé te horen dat duel gefaalt is)):**
 
 - [Apostaat](./slecht.md#apostaat)
 
@@ -500,7 +504,6 @@ nieuw duel mag de volgende dag worden ingezet.
 - [Dorpsoudste](#dorpsoudste)
 
 - [Engel](#engel)
-
 
 - [Genezer](#genezer)
 
@@ -572,7 +575,7 @@ Slet meer aantreft .
 
 Tijd van de actie: **Nacht**. Frequentie: **Iedere nacht, niet bij dezelfde 2x achter elkaar**
 
-## Stotterende raadsheer {#raadsheer}
+## Stotterende Raadsheer {#raadsheer}
 De Stotterende Raadsheer kan eenmalig een tweede lynch (ophangen) starten. De Raadsheer kan dit
 doen als directe reactie op de net bekend gemaakte lynch, wanneer dit gebeurt heeft iedereen 1.5
 uur om nogmaals te stemmen. De Raadsheer kan dit ook vóór de lynch doen als die er sowieso 2 wil.
@@ -581,7 +584,7 @@ kunnen stemmen.
 
 Tijd van de actie: **Dag, voor of na de lynch**. Frequentie: **Eenmaal**.
 
-## Toegewijd dienstmeisje {#dienstmeisje}
+## Toegewijd Dienstmeisje {#dienstmeisje}
 *Het Toegewijde Dienstmeisje is de schoonmaak(st)er van het dorp, en kent ieder huis van binnenuit. De recentelijke oproer komt goed uit, want zodra de juiste sterft, stapt het dienstmeisje direct in hun voetsporen.*
 
 Het Dienstmeisje mag een doelwit uitkiezen, en wanneer deze persoon doodgaat door wat voor
