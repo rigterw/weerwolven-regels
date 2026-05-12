@@ -679,7 +679,7 @@ in plaats van Satan.
 
 <br>
 
->Veronique de Ziener, Nina de Genezer, en Yessica de [Heks](#heks) (vergif) kiezen allemaal Batubabe de
+>Veronique de Ziener, Nina de Genezer, en yessi de [Heks](#heks) (vergif) kiezen allemaal Batubabe de
 [Necrotariër](./neutraal.md#necrotarier) uit als doelwit voor hun krachten. Wessel de zondebok had Batubabe uitgekozen, en
 krijgt alle drie de krachten op zijn dak. Hetzelfde geld dus voor meer krachten in 1x.
 
