@@ -52,6 +52,7 @@ Gijs, Men zegt weleens "behind every rule there is a story" en de verhalen van d
 - Amber
 - Arthur
 - Batuhan
+- Chris
 - Gijs
 - Jeroen
 - Jouke
@@ -61,6 +62,7 @@ Gijs, Men zegt weleens "behind every rule there is a story" en de verhalen van d
 - Lottée
 - Luk
 - Maxime
+- Maz
 - Nina
 - Samira
 - Satan (Jeroen)
@@ -69,7 +71,7 @@ Gijs, Men zegt weleens "behind every rule there is a story" en de verhalen van d
 - Vero
 - Wessel
 - Yannis
-- Yessi
+- yessi
 - Yinte
 
 Wil je ook je naam hierbij zetten? In de groepsomschrijving van Weerwolven van Wakkerdam (de
