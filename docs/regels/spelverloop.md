@@ -1,5 +1,5 @@
 # Spelverloop
-_Dit hoofdstuk is vooral belangrijk voor spelers die nog nooit een potje gespeeld hebben. Heb je dat wel? lees dan wel even over [tweelingen](#tweelingen) en [dood gaan](#de-dood)
+_Dit hoofdstuk is vooral belangrijk voor spelers die nog nooit een potje gespeeld hebben. Heb je dat wel? Lees dan wel even over [tweelingen](#tweelingen) en [dood gaan](#de-dood)._
 
 ## Wat gebeurt er iedere dag?
 Er is ’s ochtends een lunch die tussen 10 uur en 12 uur, liggend aan de hand van de dagindeling van
