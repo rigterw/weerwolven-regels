@@ -1,5 +1,13 @@
 # changelog
 
+## Versie 27.1
+- Cupido: Vermeld dat het een 14+ rol is
+- Engel: Vermeld dat t een 14+ rol is
+- Priester: Expliciete vermelding van wie de wolven zijn weggehaald
+- Ridder: Verduidelijkt wat er bij duel faal gebeurd
+- Aantal hoofdletters geplaatst waar ze vergeten waren
+- Contributeurs geupdate
+
 ## Versie 27
 - Overgang naar website.
 - Lichte aanpassingen in volgorde van het hoofdstuk spelverloop.
