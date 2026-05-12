@@ -1,4 +1,4 @@
-# changelog
+# Changelog
 
 ## Versie 27.1
 - Cupido: Vermeld dat het een 14+ rol is
