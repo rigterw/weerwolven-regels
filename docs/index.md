@@ -21,7 +21,7 @@ deelnemer. Er kan ook wat inconsistentie zijn met deze site en de regels, omdat 
 sneller veranderen dan geupdated kan worden.
 
 ## Ik ben nieuw, help!
-We houden erg van quotes, dus hier een quote van Yessi:
+We houden erg van quotes, dus hier een quote van yessi:
 
 >“Welkom bij Wakkerdam
 
@@ -29,7 +29,7 @@ We houden erg van quotes, dus hier een quote van Yessi:
 heksen, weinig spoons, vossen, instabiele mental health, moordende wolven, chaotische
 meetings, nog chaotischere stickers, en de meest chaotische cult”
 
-Maar naast deze geweldige opsomming van Yessi, weet je waarschijnlijk nog niet genoeg van het spel
+Maar naast deze geweldige opsomming van yessi, weet je waarschijnlijk nog niet genoeg van het spel
 af om mee te kunnen spelen. En die 45 pagina’s kunnen wat overweldigend zijn, maar wees niet
 bevreesd! Je hoeft niet alles te lezen. Als je nog nooit Weerwolven van Wakkerdam hebt gespeeld is
 het hoofdstuk [Spelverloop](regels/spelverloop.md) handig om te lezen, anders kan je genoegen nemen met deze TL;DR, credits naar Vero. 
