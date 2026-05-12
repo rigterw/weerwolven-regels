@@ -1,4 +1,4 @@
-# De neutralen
+# De Neutralen
 Deze rollen kunnen wisselen van hun zijde, of winnen juist op speciale voorwaarden, veelal in hun eentje.
 
 ## Grafrover
@@ -40,7 +40,7 @@ Necrotariër proberen te kopen, dan moet de een de ander overbieden om de Necrot
 Biedingen zijn privé en de spelleider zegt dan alleen “de ander overbied je met X punten”.
 Tijd van de actie: **Nacht**. Frequentie: **(Aantal spelers – 1) / 5**
 
-## De pijpende reaper {#reaper}
+## De Pijpende Reaper {#reaper}
 *Combinaite van Grim Reaper en de fluitspeler, Pijpen alleen bij 14+*
 
 >Overigens is “pijpen” een synoniem van fluitspelen. Geen idee waar jij aan denkt – Batuhan, Maxime,
@@ -78,7 +78,7 @@ dat de ander ook Reaper is.
 
 Tijd van de actie (resultaten): **Dag (gokken) en Nacht (fluiten en gokken)**. Frequentie: **Zoveel gokken als doorgegeven worden. GEEN (0) of TWEE (2) betoveringen**
 
-## Witte weerwolf
+## Witte Weerwolf
 De Witte Weerwolf wil als enige het spel winnen. Samen met zijn medewolven probeert hij alle non-
 wolven te doden, maar hij/zij heeft ook zijn eigen unieke lunch: De Witte Weerwolf kan om de nacht
 een andere wolf opeten, als extra lunch, om zo de wolven uit te dunnen. De Witte Weerwolf zit dus
